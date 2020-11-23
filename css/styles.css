@@ -6,14 +6,19 @@ line-height:1.192;
 letter-spacing: 0.03em;
 color: #2196F3;
 }
+ul{
+    list-style: none;
+}
+
 .logo_studio{
 font-family: 'Raleway', sans-serif;
 font-weight: bold;
 font-size: 26px;
 line-height:1.192;
 letter-spacing: 0.03em;
-color: #030303;    
+color: #030303;   
 }
+
 
 .navigation_menu_link {
 font-family: "Roboto", sans-serif;
@@ -27,6 +32,9 @@ color: #212121;
 .navigation_menu_link:focus
  {
 color: #2196f3;
+}
+.navigation_menu_link{
+    text-decoration: none;
 }
 
 .address{
@@ -48,6 +56,10 @@ color: #757575;
 .contact_mail:hover,
 .contact_mail:focus{
     color: #2196F3;}
+.contact_mail,
+.contact_tel{
+    text-decoration: none; 
+}
 
 .hero_title{
 font-family: "Roboto", sans-serif;
@@ -173,7 +185,7 @@ color: #212121;
     color: #2196F3; 
 }
 .heading{
-ffont-family: "Roboto", sans-serif;
+font-family: "Roboto", sans-serif;
 font-weight: bold;
 font-size: 18px;
 line-height:2;
@@ -206,4 +218,13 @@ font-size: 26px;
 line-height:1.192;
 letter-spacing: 0.03em;
 color: #ffffff;
+}
+.contact_adr{
+font-family: "Roboto", sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 1.714;
+letter-spacing: 0.03em;
+color: #FFFFFF;
 }
