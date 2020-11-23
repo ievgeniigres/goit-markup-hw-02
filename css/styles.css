@@ -56,6 +56,7 @@ color: #757575;
 .contact_mail:hover,
 .contact_mail:focus{
     color: #2196F3;}
+    
 .contact_mail,
 .contact_tel{
     text-decoration: none; 
