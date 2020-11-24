@@ -6,6 +6,7 @@
 /* вторичный цвет текста #757575 */
 /* акцент #2196F3 */
 /* белый #fffff */
+
 .logo_web{
 font-family: 'Raleway', sans-serif;
 font-weight: bold;
@@ -14,12 +15,15 @@ line-height:1.192;
 letter-spacing: 0.03em;
 color: #2196F3;
 }
+
 ul{
     list-style: none;
 }
+
 a:-webkit-any-link {
     text-decoration: none;
     }
+    
 .logo_studio{
 font-family: 'Raleway', sans-serif;
 font-weight: bold;
