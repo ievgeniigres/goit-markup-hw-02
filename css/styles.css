@@ -1,5 +1,11 @@
+.body{
+    color: #E5E5E5;
+}
+
 /* цвет основного текста #212121 */
-/* вторичный цвет текста #757575; */
+/* вторичный цвет текста #757575 */
+/* акцент #2196F3 */
+/* белый #fffff */
 .logo_web{
 font-family: 'Raleway', sans-serif;
 font-weight: bold;
@@ -11,7 +17,9 @@ color: #2196F3;
 ul{
     list-style: none;
 }
-а {text-decoration: none;}
+a:-webkit-any-link {
+    text-decoration: none;
+    }
 .logo_studio{
 font-family: 'Raleway', sans-serif;
 font-weight: bold;
