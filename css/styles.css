@@ -23,7 +23,7 @@ ul{
 a:-webkit-any-link {
     text-decoration: none;
     }
-    
+
 .logo_studio{
 font-family: 'Raleway', sans-serif;
 font-weight: bold;
@@ -242,4 +242,15 @@ font-size: 14px;
 line-height: 1.714;
 letter-spacing: 0.03em;
 color: #FFFFFF;
+}
+
+.contact_mail,
+.contact_tel{
+font-family: "Roboto", sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 0.03em;
+color: rgba(255, 255, 255, 0.6);
 }
